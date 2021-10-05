@@ -2,7 +2,9 @@
 // People are showing their tickets at ticket counter to enter in the hall.
 // Note : Run one part at a time
 
-
+// Good tutorials: https://www.youtube.com/watch?v=Gjbr21JLfgg&ab_channel=HiteshChoudhary
+// https://www.youtube.com/watch?v=_8gHHBlbziw&ab_channel=DevEd
+// https://www.youtube.com/watch?v=IGoAdn-e5II&ab_channel=techsith
 
 
 
